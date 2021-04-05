@@ -1,5 +1,6 @@
 # Lab2Web
 1. -Deklarasi h1 ...{} akan menjadikan elemen h1 berubah semuanya
+
    -#intro h1...{} akan jadi spesifik disini yang berubah Intronya
    
 2. Deklarasi Inline 
